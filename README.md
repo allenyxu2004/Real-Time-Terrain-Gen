@@ -8,6 +8,7 @@
 * ![Realtime changes](realtimechanges.gif)
 
 ## Controls:
+* Run build.py in the 11/terrain folder, then ./prog.exe to run the program (Note: ensure minGW is pointed to the 32 bit version)
 * Use WASD to move the camera around, Q to go up and E to go down
 * Use up and down arrows to modify terrain complexity
 * Use R key to generate a new terrain
